@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="what-s-webdriver.md"/>
+    <toc-element topic="chose-browser.md"/>
+    <toc-element topic="Install-Selenium.md"/>
+    <toc-element topic="Open-firefox-browser.md"/>
+    <toc-element topic="find-element.md"/>
+    <toc-element topic="selenium-wait.md"/>
+    <toc-element topic="action-event.md"/>
+    <toc-element topic="swith-window.md"/>
+</instance-profile>
