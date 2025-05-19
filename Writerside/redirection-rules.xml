@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3e432aaa">
+        <description><![CDATA[Created after removal of "<swith-window.md>" from Help Instance]]></description>
+        <accepts>swith-window.html</accepts>
+    </rule>
+    <rule id="2ecb59bc">
+        <description><![CDATA[Created after removal of "<switch-tab.md>" from Help Instance]]></description>
+        <accepts>switch-tab.html</accepts>
+    </rule>
+    <rule id="32b77d3e">
+        <description>Created after removal of "基础" from Help Instance</description>
+        <accepts>basic.html</accepts>
+    </rule>
+</rules>
